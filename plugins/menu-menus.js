@@ -28,9 +28,9 @@ let tags = {'main': 'ℹ️ INFOBOT',
 const defaultMenu = {
 before: `「 %wm 」
  
-Hola 👋🏻 *%name* como esta bn 😘
+Hola 👋🏻 *%name* como estas bby 😘
 
- *ღ Dueña:* china 🥰
+ *ღ Dueña:* china💋
 *ღ Fecha:* %fecha
 *ღ Hora:* %hora (🇦🇷) 
 *ღ Usuario:* %totalreg
@@ -168,7 +168,7 @@ mentionedJid:[m.sender],
 sourceUrl: md
 }}}, { quoted: m })
 //conn.sendFile(m.chat, pp, 'menu.jpg', text.trim(), m, null, rpl)
-m.react('😘') 
+m.react('🔥') 
 } catch (e) {
 m.react(`❌`) 
 throw e
